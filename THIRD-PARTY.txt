@@ -1,0 +1,24 @@
+Сторонние библиотеки в папке lib. Лицензия этого проекта (PolyForm Strict) на них не распространяется:
+у каждой библиотеки свои условия. Тексты лицензий лежат в lib/licenses/.
+
+LibreHardwareMonitorLib: датчики температуры, вентиляторов и частот.
+  Лицензия: MPL-2.0 (lib/licenses/MPL-2.0.txt)
+  Исходный код: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+DiskInfoToolkit: чтение данных дисков.
+  Лицензия: MPL-2.0 (lib/licenses/MPL-2.0.txt)
+  Исходный код: https://github.com/Blacktempel/DiskInfoToolkit
+
+RAMSPDToolkit-NDD: чтение данных модулей памяти (SPD).
+  Лицензия: MPL-2.0 (lib/licenses/MPL-2.0.txt)
+  Исходный код: https://github.com/Blacktempel/RAMSPDToolkit
+
+BlackSharp.Core: вспомогательная библиотека авторов DiskInfoToolkit и RAMSPDToolkit.
+  Copyright (c) 2025 Florian K. Лицензия: MPL-2.0 (lib/licenses/MPL-2.0.txt, lib/licenses/BlackSharp-notice.txt)
+  Исходный код: https://github.com/Blacktempel/BlackSharp
+
+HidSharp: работа с HID-устройствами.
+  Copyright 2010-2019 James F. Bellinger. Лицензия: Apache-2.0 (lib/licenses/HidSharp-Apache-2.0.txt)
+  Исходный код: https://github.com/IntergatedCircuits/HidSharp
+
+Остальные DLL в папке lib (System.*, Microsoft.Bcl.*) являются компонентами Microsoft (.NET) и распространяются на условиях Microsoft (в основном MIT).

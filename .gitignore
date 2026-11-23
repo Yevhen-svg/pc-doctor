@@ -1,0 +1,16 @@
+# Данные, которые программа создаёт на компьютере пользователя (содержат имена, пути, настройки)
+data.json
+report.html
+scan-run.json
+scan-progress.txt
+scan-steps.json
+bigfiles-*.json
+journal.json
+events.json
+history.json
+settings.json
+games.json
+rec.json
+*.log
+# Собранные архивы
+*.zip
