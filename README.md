@@ -12,7 +12,7 @@ It works locally and sends nothing to the internet (the only exception is the op
 ## Features
 - **Full scan:** disks, memory, CPU, GPU, network, drivers, battery (laptops). PC or laptop is detected automatically.
 - **Live sensors** once per second: load, temperatures, clocks, fans, disks, network, ping.
-- **Safe cleanup:** pick a drive, find large files with full paths, and move them to the Recycle Bin only (never permanent deletion). Every file has a colour label (green / yellow / red), and the list is sorted safest first. Game files are fully protected.
+- **Safe cleanup:** pick a drive, find large files with full paths, and move them to the Recycle Bin only. The separate "safe caches" button deletes temporary caches (browser, shader, pip/uv, user temp) directly, and that cannot be undone. Every file has a colour label (green / yellow / red), and the list is sorted safest first. Game files are fully protected.
 - **Game mode:** power plan, USB and network-adapter power saving, mouse acceleration, Sticky Keys popup, Game Bar, PCIe power saving. Every toggle can be undone. The program lowers its own priority while a game runs.
 - **Drivers and Network:** step-by-step advice. You decide what to change.
 - **Reports:** a log of every change with an Undo button, plus the scan history.
