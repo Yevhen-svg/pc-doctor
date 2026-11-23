@@ -1,0 +1,4 @@
+BlackSharp.Core
+Copyright (c) 2025 Florian K.
+Лицензия: Mozilla Public License 2.0 (см. MPL-2.0.txt в этой папке).
+Исходный код: https://github.com/Blacktempel/BlackSharp
